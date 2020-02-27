@@ -15,7 +15,7 @@ Bleeding edge `django3.0` template focused on code quality and security.
 
 Create project by fork (todo: remove this text):
 ```bash
-cookiecutter gh:rapita/wemake-django-template --checkout django3
+cookiecutter gh:rapita/wemake-django-template --checkout v2
 ```
 
 ## Purpose
