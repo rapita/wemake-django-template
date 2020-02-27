@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Caching
-# https://docs.djangoproject.com/en/2.2/topics/cache/
+# https://docs.djangoproject.com/en/3.0/topics/cache/
 
 CACHES = {
     'default': {
