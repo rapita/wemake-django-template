@@ -235,7 +235,7 @@ description = "A high-level Python Web framework that encourages rapid developme
 name = "django"
 optional = false
 python-versions = ">=3.5"
-version = "2.2.10"
+version = "3.0.3"
 
 [package.dependencies]
 pytz = "*"

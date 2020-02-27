@@ -35,7 +35,7 @@ INSTALLED_APPS += (
 
 
 # Static files:
-# https://docs.djangoproject.com/en/2.2/ref/settings/#std:setting-STATICFILES_DIRS
+# https://docs.djangoproject.com/en/3.0/ref/settings/#std:setting-STATICFILES_DIRS
 
 STATICFILES_DIRS: List[str] = []
 

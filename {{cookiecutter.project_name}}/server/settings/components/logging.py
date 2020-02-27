@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Logging
-# https://docs.djangoproject.com/en/2.2/topics/logging/
+# https://docs.djangoproject.com/en/3.0/topics/logging/
 
 LOGGING = {
     'version': 1,
